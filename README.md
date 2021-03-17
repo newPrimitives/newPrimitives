@@ -12,12 +12,12 @@ PS: I'm also quite good in web development.
 
 ##### BIO
 
-- 🏢 I'm currently working on a project for **Lufthansa**
+- 🏢 I'm currently working on a project for **Lufthansa Airlines**
 - 🏢 You can also find me through **Code Control** freelance agency 
-- ⚙️ I use daily: `Swift`, `ObjectiveC`, ``, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- ⚙️ I use daily: `Swift`, `ObjectiveC`, `Firebase`, `Laravel`, `Angular`
+- 🌍 I'm mostly active within the **Ray Wenderlich iOS community**
+- 💅 Worked on: [Lufthansa Customer Service app](https://apps.apple.com/us/app/lufthansa-customer-service/id1087851871), [Elude](https://elude.co/), [OneCoworking](https://apps.apple.com/us/app/one-coworking/id1137381231), [ZPatch](https://zpatch.co/) 
 - 🌱 Recently learning all about **Advanced architectures in iOS ecosystem**
 - 💬 Ping me about **ios**, **swift**, **app development**, **conference talks**, **mvps**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco) or [twitter.com/caneco](https://twitter.com/caneco)
+- 📫 Reach me: [twitter.com/itsnerminsehic](https://twitter.com/itsnerminsehic) or [linkedin.com/in/nerminsehic/](https://www.linkedin.com/in/nerminsehic/)
 - ⚡️ Fun fact: I co-founded a coworking space in Sarajevo that got voted among top 100 in Europe!
