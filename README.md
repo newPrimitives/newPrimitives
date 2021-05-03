@@ -7,7 +7,7 @@ PS: I'm also quite good in web development.
 
 - 🎙 Recording podcasts [terscast](https://podcast.tershouse.ba/)
 - 💬 Preparing a talk for [WeAreDevelopers Swift Day](https://wearedevelopers.com/) - More info on the following link: https://www.wearedevelopers.com/sessions/ar-kit-intro-placing-3d-objects-in-a-scene-and-interacting-with-them-in-real-time
-- Checkout my blog @ https://medium.com/@itsnerminsehic
+- 🖊️ Checkout my blog @ https://medium.com/@itsnerminsehic
 
 ##### BIO
 
