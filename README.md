@@ -8,6 +8,7 @@ PS: I'm also quite good in web development.
 - 🎙 Recording podcasts [terscast](https://podcast.tershouse.ba/)
 - 💬 Check out my latest talk @ [WeAreDevelopers Swift Day](https://wearedevelopers.com/) - More info on the following link: https://www.wearedevelopers.com/sessions/ar-kit-intro-placing-3d-objects-in-a-scene-and-interacting-with-them-in-real-time
 - 🖊️ Checkout my blog @ https://medium.com/@itsnerminsehic
+- 🖇 CEO of [betastudio](https://github.com/betastudio-ba), software studio based in Sarajevo
 
 ##### BIO
 
@@ -19,4 +20,4 @@ PS: I'm also quite good in web development.
 - 🌱 Recently learning all about **ARKit and augmented reality**
 - 💬 Ping me about **ios**, **swift**, **app development**, **conference talks**, **mvps**
 - 📫 Reach me: [twitter.com/itsnerminsehic](https://twitter.com/itsnerminsehic) or [linkedin.com/in/nerminsehic/](https://www.linkedin.com/in/nerminsehic/)
-- ⚡️ Fun fact: I co-founded a coworking space in Sarajevo that got voted among top 100 in Europe!
+- ⚡️ Fun fact: I founded a coworking space in Sarajevo that got voted among top 100 in Europe!
